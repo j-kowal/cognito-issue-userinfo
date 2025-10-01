@@ -9,7 +9,7 @@ app.get('/userinfo', (c) => {
   const uuid = uuidv4();
   const resp = {
     email: 'john@doe.com',
-    phone_number: '4791758378',
+    phone_number: '+4791936117',
     family_name: 'Doe',
     given_name: 'John',
     sub: uuid,
